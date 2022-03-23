@@ -1,0 +1,5 @@
+Regard.create(message: 'Front-end rules!!!')
+Regard.create(message: 'Happy Coding')
+Regard.create(message: 'Thanks for your time =D')
+Regard.create(message: 'Have a nice day =D')
+Regard.create(message: 'Back-end is in the house!!!')
